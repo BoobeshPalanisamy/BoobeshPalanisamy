@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Boobesh Palanisamy
+- 👋 Hi, I’m @Boobesh Palanisamy,who is passionate about Data Science, Deep Learning, Natural Language Processing. I am good at python Python(Programming Language),   Pandas,Machine Learning(Supervised & Unsupervised), SQL, MongoDB
 - 👀 I’m interested in Datascinece and Programming
 - 🌱 I’m currently learning  Advanced Programming Professional & Master Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects
