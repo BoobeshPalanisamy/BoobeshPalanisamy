@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Boobesh Palanisamy,who is passionate about Data Science, Deep Learning, Natural Language Processing. I am good at python Python(Programming Language),   Pandas,Machine Learning(Supervised & Unsupervised), SQL, MongoDB, HTML, CSS, Javascript
-- 👀 I’m interested in Datascinece and Programming
-- 🌱 I’m currently learning  Advanced Programming Professional & Master Data Science, MongoDB, HTML, CSS, Javascript
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 👀 I’m interested in Programming and DataAnalyst
+- 💞️ I’m looking to collaborate on MERN Stack Development and Python Programming and Data Analyst Projects
 - 📫 boobeshmalar@gmail.com
 
 
